@@ -1,5 +1,5 @@
 _repo: Das-Sternenkind-und-andere-Geschichten-Naturgeschichtliche-Marchen_58520
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Planck, Willy
@@ -12,6 +12,9 @@ contributor:
     agent_name: Kiy, Hermann
     gutenberg_agent_id: '50008'
     url: http://www.gutenberg.org/2009/agents/50008
+covers:
+- cover_type: archival
+  image_path: 58520-h/images/cover.jpg
 creator:
   author:
     agent_name: Ewald, Carl
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1711
     wikipedia: http://en.wikipedia.org/wiki/Carl_Ewald
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58520#Das-Sternenkind-und-andere-Geschichten-Naturgeschichtliche-Marchen
 gutenberg_issued: '2018-12-22'
 gutenberg_type: Text
 identifiers:
